@@ -1,5 +1,6 @@
 import numpy as np
 import os
+#By Xiaoquan Sun
 #This script is used to find structure water and corresponding amino acid on receptor and ligand.
 #There are following arrays to store the data
 ligand_wat=[];receptor_wat=[] #The water residue number of ligand or receptor
