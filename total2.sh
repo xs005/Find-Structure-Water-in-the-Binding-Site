@@ -30,3 +30,4 @@ for k in ligand receptor uniq_pair;do
 done
 rm temp_*.dat
 
+ 
