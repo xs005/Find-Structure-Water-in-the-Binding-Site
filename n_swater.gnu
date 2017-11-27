@@ -12,3 +12,4 @@ set title "Number of Structure Water in the Complex"
 p '2.dat' u (column(1)/100):2 w l noti 
 set output
 
+ 
