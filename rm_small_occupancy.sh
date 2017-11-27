@@ -32,7 +32,7 @@ done
 sed -n 1,${n}p time_gap1_temp.dat > time_gap_temp.dat
 paste time_gap_temp.dat big_occupancy_temp.dat > big_occupancy.dat
 rm *_temp.dat
-
+ 
 cat > hbond.gnu << \EOF
 reset
 set terminal pdfcairo
